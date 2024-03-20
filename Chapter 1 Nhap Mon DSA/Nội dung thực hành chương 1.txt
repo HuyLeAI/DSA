@@ -1,0 +1,4 @@
+Bài 1: Nhân ma trận vuông - O(n^3)
+Bài 2: Tìm max trong dãy số - O(n)
+Bài 3: Viết đệ quy và không đệ quy a^n - O(logn)
+Bài 4: Tháp Hà Nội - O(2^n)
